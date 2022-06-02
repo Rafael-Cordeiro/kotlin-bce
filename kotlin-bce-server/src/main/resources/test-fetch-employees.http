@@ -1,0 +1,3 @@
+# @name Cadastro de funcionário
+GET http://localhost:9999/api/employee
+Content-Type: application/json

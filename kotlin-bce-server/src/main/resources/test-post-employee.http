@@ -1,0 +1,9 @@
+# @name Cadastro de funcionário
+POST http://localhost:9999/api/employee
+Content-Type: application/json
+
+{
+  "name": "Rafael",
+  "salary": 1000,
+  "position": "dev"
+}
